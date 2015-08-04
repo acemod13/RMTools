@@ -1,0 +1,15 @@
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\bin\Debug\RPG Maker Tools.exe.config
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\bin\Debug\RPG Maker Tools.exe
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\bin\Debug\RPG Maker Tools.pdb
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\bin\Debug\RPG Maker Tools.xml
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.vbprojResolveAssemblyReference.cache
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG_Maker_Tools.Resources.resources
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.vbproj.GenerateResource.Cache
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.exe
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.xml
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.pdb
+c:\users\dimitris\documents\visual studio 2015\Projects\RMTools\RPG Maker Tools\obj\Debug\RPG_Maker_Tools.ToolkitForm.resources
+C:\Users\Dimitris\Documents\GitHubVisualStudio\RMTools\RPG Maker Tools\bin\Debug\RPG Maker Tools.exe.config
+C:\Users\Dimitris\Documents\GitHubVisualStudio\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.exe
+C:\Users\Dimitris\Documents\GitHubVisualStudio\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.xml
+C:\Users\Dimitris\Documents\GitHubVisualStudio\RMTools\RPG Maker Tools\obj\Debug\RPG Maker Tools.pdb
